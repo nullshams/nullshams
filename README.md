@@ -31,4 +31,13 @@ A passionate **software engineering student** with deep interests in **Cybersecu
 
 To build **accessible**, **useful**, and **impactful** products for everyone.
 
+---
+
+## 🚀 My Projects
+
+### [Payload Generator for Digispark](https://mehditoxic.github.io/Payload/)
+A web application for building custom payloads for Digispark boards.  
+Easily generate and customize payloads for cybersecurity testing and automation.  
+`Tech Stack: JavaScript, HTML, CSS`
+---
 
