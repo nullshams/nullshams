@@ -40,8 +40,7 @@ Easily generate and customize payloads for cybersecurity testing and automation.
 `Tech Stack: JavaScript, HTML, CSS`
 
 ### [DNS Tool](https://github.com/mehditoxic/dns-tool)
-A powerful DNS analysis and monitoring tool for cybersecurity and networking tasks.  
-Includes features for DNS lookup, monitoring, and custom payload generation.  
-`Tech Stack: Python, Bash, Linux`
+A simple and powerful tool for managing DNS settings on Linux.
+`Tech Stack: Bash, Linux`
 
 ---
