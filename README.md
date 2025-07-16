@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Mehdi
+# 👋 Hi there! I'm Shams
 
 A passionate **software engineering student** with deep interests in **Cybersecurity**, **Linux**, and **Networking**.
 
