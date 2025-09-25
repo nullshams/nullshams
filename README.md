@@ -34,12 +34,12 @@ To build **accessible**, **useful**, and **impactful** products for everyone.
 
 ## 🚀 Featured Projects
 
-### [Payload Generator for Digispark](https://mehditoxic.github.io/Payload/)
+### [Payload Generator for Digispark](https://nullshams.github.io/Payload/)
 A web application for building custom payloads for Digispark boards.  
 Easily generate and customize payloads for cybersecurity testing and automation.  
 `Tech Stack: JavaScript, HTML, CSS`
 
-### [DNS Tool](https://github.com/mehditoxic/dns-tool)
+### [DNS Tool](https://github.com/nullshams/dns-tool)
 A simple and powerful tool for managing DNS settings on Linux.
 `Tech Stack: Bash, Linux`
 
